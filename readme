@@ -1,0 +1,14 @@
+# Portfolio Website
+
+A simple and modern portfolio website using HTML, Tailwind CSS, and JavaScript.
+
+## 📌 Features:
+- Professional & Responsive Design
+- Dynamic Project Gallery (Supports 15 images)
+- Education & Skills Section
+- Dark Mode Support
+
+## 🚀 How to Run Locally
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/portfolio-website.git

@@ -1,0 +1,11 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+a {
+    transition: color 0.3s ease;
+}
+
+button {
+    transition: all 0.3s ease;
+}
